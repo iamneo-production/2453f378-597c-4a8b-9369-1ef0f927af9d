@@ -368,11 +368,3 @@ class GA_pack:
             if j > row:
                 break
         return(partition)
-    
-
-                
-            
-                        
-                
-            
-        
